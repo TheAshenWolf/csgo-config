@@ -1,1 +1,1 @@
-# csgo-config
+Configs for CSGO
